@@ -22,4 +22,4 @@ Welcome to **HealthTech Solutions**! This repository is dedicated to exploring a
 
 Clone this repository:
 ```bash
-git clone https://github.com/YourUsername/HealthTech-Solutions.git
+git clone https://github.com/TebyanGroups/HealthTech-Solutions.git
