@@ -17,5 +17,11 @@ Welcome to **HealthTech Solutions**! This repository is dedicated to exploring a
 - Python 3.x
 - Node.js (for front-end applications)
 - Docker (for containerized environments)
+- [4:23 PM, 5/12/2025] Rahmani: 
+### Installation
+
+Clone this repository:
+```bash
+https://github.com/TebyanGroups/-HealthTech-Innovations/blob/main/README.md
 
 
