@@ -18,8 +18,4 @@ Welcome to **HealthTech Solutions**! This repository is dedicated to exploring a
 - Node.js (for front-end applications)
 - Docker (for containerized environments)
 
-### Installation
 
-Clone this repository:
-```bash
-git clone https://github.com/TebyanGroups/HealthTech-Solutions.git
